@@ -1,14 +1,33 @@
 # My First Program
 
 ## About
-This repository contains my C programming practice.
+This repository contains my practice programs in C programming and Data Structures. I am a CSE student learning problem solving and open source using GitHub.
 
-## Programs
-- Palindrome program
-- Prime number
+## Programs Included
+
+### 🔹 Basic Programs
+- Palindrome Program
+- Prime Number
 - Factorial
-- Linear search
-- Bubble sort
+
+### 🔹 Searching Techniques
+- Linear Search
+- Binary Search
+
+
+### 🔹 Sorting Techniques
+- Bubble Sort
+- Selection Sort
+
+### 🔹 Data Structures
+- Stack (Array Implementation)
+## Tools Used
+- C Programming Language
+- GitHub
+
+## Author
+Rachana Taneti  
+CSE Student | Learning C, DSA & Open Source
 
 ## Author
 Rachana Taneti
