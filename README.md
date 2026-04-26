@@ -21,6 +21,8 @@ This repository contains my practice programs in C programming and Data Structur
 
 ### 🔹 Data Structures
 - Stack (Array Implementation)
+- infix to postfix expression
+- infix to prefix expression 
 
 ## Tools Used
 - C Programming Language
